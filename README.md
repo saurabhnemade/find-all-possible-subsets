@@ -2,12 +2,12 @@
 
 Find all unique subsets of given array. Tupples should be also unique.
 
-##Input 
+## Input 
 ```javascript
 var input = [1,2,3,4,5];
 ```
 
-##Output 
+## Output 
 ```javascript
 [ 
   [ 1 ],
